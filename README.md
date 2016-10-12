@@ -1,2 +1,1 @@
-# hello
-第一个简单demo
+﻿A personal blog based on Jekyll-Bootstrap
